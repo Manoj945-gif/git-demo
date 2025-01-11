@@ -1,2 +1,2 @@
 # git-demo
-first use of git hub
+first use of Git hub
